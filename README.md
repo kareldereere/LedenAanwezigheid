@@ -23,7 +23,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-ptyhon3 main.py
+python3 main.py
 
 
 ## Gebruik
