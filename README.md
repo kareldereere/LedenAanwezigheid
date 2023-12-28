@@ -15,13 +15,15 @@ De Sportclub Applicatie is ontworpen om het beheer van leden en registraties voo
 
    ```bash
    git clone https://github.com/kareldereere/LedenAanwezigheid.git
-   cd sportclub-app
+   cd LedenAanwezigheid
 
-
-## Virtuele omgeving
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
+
+ptyhon3 main.py
 
 
 ## Gebruik
