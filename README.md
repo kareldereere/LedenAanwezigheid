@@ -61,17 +61,18 @@ Belangrijke Opmerkingen
 Zorg ervoor dat je leden toevoegt voordat je registraties uitvoert.
 Bij het verwijderen van leden worden alle gerelateerde registraties ook verwijderd.
 
-Structuur van de applicatie
+##Structuur van de applicatie
 
 main.py: Het hoofdprogramma dat de SportClubDatabase-klasse instantieert en de gebruikersinteractie beheert.
 settings.py: Bestand voor het opslaan van configuratie-instellingen zoals de database-naam.
 venv/: Map voor de virtuele omgeving.
 Leden/: Map voor CSV-bestanden met ledengegevens.
 Registratie/: Map voor CSV-bestanden met registratiegegevens.
-Database
+
+##Database
 De applicatie maakt gebruik van een SQLite-database met twee tabellen: leden en registratie. 
 
-Bestanden en Mappen
+##Bestanden en Mappen
 
 leden.csv: CSV-bestand met ledengegevens, gegenereerd na het exporteren van leden.
 registratie.csv: CSV-bestand met registratiegegevens, gegenereerd na het exporteren van registratie.
