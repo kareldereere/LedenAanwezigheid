@@ -14,7 +14,7 @@ De Sportclub Applicatie is ontworpen om het beheer van leden en registraties voo
 1. Clone de repository naar je lokale machine:
 
    ```bash
-   git clone https://github.com/jouw-gebruikersnaam/sportclub-app.git
+   git clone https://github.com/kareldereere/LedenAanwezigheid.git
    cd sportclub-app
 
 
