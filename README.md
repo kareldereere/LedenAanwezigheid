@@ -19,11 +19,15 @@ De Sportclub Applicatie is ontworpen om het beheer van leden en registraties voo
 
 python3 -m venv venv
 
+#Windows
+.\venv\Scripts\activate
+
+#MacOS/Linux
 source venv/bin/activate
 
 pip install -r requirements.txt
 
-python3 main.py
+ptyhon3 main.py
 
 
 ## Gebruik
