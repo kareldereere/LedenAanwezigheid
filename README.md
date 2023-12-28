@@ -11,23 +11,23 @@ De Sportclub Applicatie is ontworpen om het beheer van leden en registraties voo
 
 ## Installatie
 
-1. Clone de repository naar je lokale machine:
+Clone de repository naar je lokale machine:
 
    ```bash
    git clone https://github.com/kareldereere/LedenAanwezigheid.git
    cd LedenAanwezigheid
 
-python3 -m venv venv
+   python3 -m venv venv
 
-#Windows
-.\venv\Scripts\activate
+   #Windows
+   .\venv\Scripts\activate
 
-#MacOS/Linux
-source venv/bin/activate
+   #MacOS/Linux
+   source venv/bin/activate
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-ptyhon3 main.py
+   python3 main.py
 
 
 ## Gebruik
